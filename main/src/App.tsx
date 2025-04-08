@@ -11,7 +11,7 @@ function App() {
         <div className="absolute inset-0 bg-black/20 z-0" />
 
         {/* Content */}
-        <div className="relative z-10 w-[90vw] max-h-[90vh] bg-picture rounded-4xl overflow-auto shadow-main shadow-2xl hide-scrollbar">
+        <div className="relative z-10 w-[90vw] max-h-[90vh] bg-picture bg-center bg-no-repeat bg-cover rounded-4xl overflow-auto shadow-main shadow-2xl hide-scrollbar">
           <Routes>
             <Route index element={<Home />} />
           </Routes>

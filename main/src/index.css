@@ -4,6 +4,7 @@
 @theme {
   --background-image-picture: url('/bgs/default.png');
   --color-textColor: #fefefe;
+  --color-logoColor: #03b09d;
   --color-main: #006b82;
 }
 
@@ -11,18 +12,21 @@
   [data-theme='cafe-mocha'] {
     --background-image-picture: url('/bgs/cafe-mocha.png');
     --color-textColor: #fefefe;
+    --color-logoColor: #766530;
     --color-main: #006b82;
   }
 
   [data-theme='blush-ember'] {
     --background-image-picture: url('/bgs/blush-ember.png');
     --color-textColor: #f9b091;
+    --color-logoColor: #f9b091;
     --color-main: #3e2e57;
   }
 
   [data-theme='golden-hour'] {
     --background-image-picture: url('/bgs/golden-hour.png');
     --color-textColor: #e9752b;
+    --color-logoColor: #e9752b;
     --color-main: #2b1a1e;
   }
 }

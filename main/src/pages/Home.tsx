@@ -1,7 +1,4 @@
-import MusicPlayer from "../components/MusicPlayer";
-import NavBar from "../components/NavBar";
-import QuoteBox from "../components/QuoteBox";
-import TaskList from "../components/TaskList";
+import { MusicPlayer, NavBar, QuoteBox, TaskList } from "../components";
 
 const Home = () => {
   return (
