@@ -49,38 +49,12 @@
 
 ---
 
-## 🕒 24-Hour Build Plan
-
-| Hours | Task |
-|-------|------|
-| 1–2   | Setup project (React + Tailwind) |
-| 3–5   | Build Task Checklist (CRUD + Storage) |
-| 6–8   | Integrate Lo-Fi Player |
-| 9–11  | Create & hook up Theme Picker |
-| 12–14 | Add UI animations & subtle polish |
-| 15–18 | Make it responsive + fix bugs |
-| 19–21 | Add bonus features (e.g., timer, animations) |
-| 22–24 | Final cleanup, deploy, screenshots, README |
-
----
-
 ## 🌈 UI Vibe Guide
 
 - **Design:** Clean, soft, and inviting — like a digital beanbag
 - **Colors:** Muted palettes with contrast per theme
 - **Fonts:** Rounded display font for titles + monospace for tasks
 - **Ambiance:** Optional floating particles or gradient shifts
-
----
-
-## 📌 MVP Checklist
-
-- [x] Editable room title
-- [x] Embedded Lo-Fi stream
-- [x] Task checklist with local persistence
-- [x] Responsive theme toggle
-- [x] Clean, cozy UI
-- [ ] Optional extras (timer, animation, polish)
 
 ---
 
@@ -115,4 +89,4 @@ But remember: **your mental health > your task list**. Take breaks. Drink water.
 
 ---
 
-## 👋 Made with caffeine, code & cozy vibes by MoonKnight
+## 👋 Made with caffeine, code & cozy vibes
